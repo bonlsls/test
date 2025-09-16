@@ -1,8 +1,8 @@
 <template>
     <div id="align">
         <b-jumbotron id="fundo">
-            <h1 class="text-uppercase">to-do list</h1>
-            <p>made by <a href="https://elroydev.tech">elroydevops</a></p>
+            <h1 class="text-uppercase">Hello Cheo ne</h1>
+            <p>made by <a">Cheo</a></p>
         </b-jumbotron>
     </div>
 </template>
