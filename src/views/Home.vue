@@ -2,7 +2,7 @@
     <div id="align">
         <b-jumbotron id="fundo">
             <h1 class="text-uppercase">Hello Cheo ne</h1>
-            <p>made by <a">Cheo</a></p>
+            <p>made by <a>Cheo</a></p>
         </b-jumbotron>
     </div>
 </template>
